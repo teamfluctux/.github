@@ -1,1 +1,3 @@
 # Fluctux is currently under development.
+### A Management Software.
+Comming soon...
